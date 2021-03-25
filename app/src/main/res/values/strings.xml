@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">News Bulletins</string>
+
+    <!-- Get Your Api Key From Gnew.com-->
+
+    <string name="api_key">Your_Api_Key</string>
+</resources>
